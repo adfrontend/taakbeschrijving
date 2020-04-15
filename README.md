@@ -14,8 +14,11 @@ FDND stimuleert het openen van pull requests. Na intern overleg door het ontwikk
 Als deze module geupdated wordt dan zijn er afhankelijke repositories die ook updated moeten worden. Om dit te doen open je de repository en voer je de volgende commando's uit
 
 ```
+<!--In /submodule-->
 git submodule init
 git submodule update
+<!--In /root>
+git commit add .
 git commit -m 'Updated task-description'
 git push origin
 ```
