@@ -4,7 +4,14 @@ description: een_korte_beschrijving_van_de_taak
 semester: nummeriek_1-4
 taskclass: keuze_uit_taakklassen_per_semester
 level: nummeriek_niveau_1-5
-behavior-criteria:[samenwerken, lerend vermogen, probleemoplossend vermogen, methodisch handelen, communiceren]
+behavior-criteria:{
+  collaboration: 0, 
+  learning-capacity: 0, 
+  problem-solving:0, 
+  act-methodically:0, 
+  work-systematically:0,
+  communicating:0
+}
 type: individueel_of_groep
 tags: taakklassen, gescheiden door, komma's
 burn-points: ...
