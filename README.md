@@ -9,3 +9,13 @@ De beschrijving van een taak gebeurt in alledaagse taal en bevat geen door machi
 
 ## Pull Requests
 FDND stimuleert het openen van pull requests. Na intern overleg door het ontwikkelteam, waarvan resultaten gepubliceerd worden, worden merges uitgevoerd.
+
+## Updating
+Als deze module geupdated wordt dan zijn er afhankelijke repositories die ook updated moeten worden. Om dit te doen open je de repository en voer je de volgende commando's uit
+
+```
+git submodule init
+git submodule update
+git commit -m 'Updated task-description'
+git push origin
+```
