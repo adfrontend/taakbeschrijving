@@ -1,5 +1,5 @@
 # Raamwerk Taakbeschrijving
-Deze Git Repository bevat een [raamwerk voor taakbeschrijvingen](index.md) in Markdown.
+Deze Git Repository bevat een [raamwerk voor taakbeschrijvingen](.description) in Markdown.
 
 ## Waarom Git?
 Alle bij FDND betrokken personen kunnen eenvoudig een up-to-date versie van taakbeschrijvingen vinden. Bij het maken van een nieuwe leertaak, het proces van vertalen van een beroepstaak naar een voor FDND geschikt formaat, hanteren we een gestandaardiseerde manier van werken.
